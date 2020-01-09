@@ -1,0 +1,15 @@
+C:\Users\Пользователь\source\repos\FlashUSB\bin\Debug\FlashUSB.exe.config
+C:\Users\Пользователь\source\repos\FlashUSB\bin\Debug\FlashUSB.exe
+C:\Users\Пользователь\source\repos\FlashUSB\bin\Debug\FlashUSB.pdb
+C:\Users\Пользователь\source\repos\FlashUSB\bin\Debug\MaterialSkin.dll
+C:\Users\Пользователь\source\repos\FlashUSB\obj\Debug\FlashUSB.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\FlashUSB\obj\Debug\FlashUSB.Form1.resources
+C:\Users\Пользователь\source\repos\FlashUSB\obj\Debug\FlashUSB.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\FlashUSB\obj\Debug\FlashUSB.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\FlashUSB\obj\Debug\FlashUSB.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\FlashUSB\obj\Debug\FlashUSB.csproj.CopyComplete
+C:\Users\Пользователь\source\repos\FlashUSB\obj\Debug\FlashUSB.exe
+C:\Users\Пользователь\source\repos\FlashUSB\obj\Debug\FlashUSB.pdb
+C:\Users\Пользователь\source\repos\FlashUSB\bin\Debug\CryptSharp.dll
+C:\Users\Пользователь\source\repos\FlashUSB\bin\Debug\CryptSharp.pdb
+C:\Users\Пользователь\source\repos\FlashUSB\bin\Debug\CryptSharp.xml
